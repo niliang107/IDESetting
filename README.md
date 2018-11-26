@@ -1,0 +1,2 @@
+# IDESetting
+Intellij Idea setting
